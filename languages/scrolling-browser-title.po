@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scrolling browser title\n"
+"POT-Creation-Date: 2021-09-18 11:24+0800\n"
+"PO-Revision-Date: 2021-09-18 11:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../scrolling-browser-title.php:107 ../scrolling-browser-title.php:108
+#: ../scrolling-browser-title.php:155
+msgid "Scrolling browser title"
+msgstr ""
+
+#: ../scrolling-browser-title.php:149
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../scrolling-browser-title.php:160
+msgid "Scroll on home page"
+msgstr ""
+
+#: ../scrolling-browser-title.php:166
+msgid "This option is to scroll the browser title on the home page."
+msgstr ""
+
+#: ../scrolling-browser-title.php:171
+msgid "Scroll on wp posts"
+msgstr ""
+
+#: ../scrolling-browser-title.php:177
+msgid "This option is to scroll the browser title on all the wp posts."
+msgstr ""
+
+#: ../scrolling-browser-title.php:182
+msgid "Scroll on wp pages"
+msgstr ""
+
+#: ../scrolling-browser-title.php:188
+msgid "This option is to scroll the browser title on all the wp pages."
+msgstr ""
+
+#: ../scrolling-browser-title.php:193
+msgid "Scroll on entire website"
+msgstr ""
+
+#: ../scrolling-browser-title.php:199
+msgid "This option is to scroll the browser title on the entire website."
+msgstr ""
+
+#: ../scrolling-browser-title.php:204
+msgid "Scroll on specific wp posts"
+msgstr ""
+
+#: ../scrolling-browser-title.php:206
+msgid "Enter specific wp posts IDs. Enter comma separated."
+msgstr ""
+
+#: ../scrolling-browser-title.php:211
+msgid "Scroll on specific wp pages"
+msgstr ""
+
+#: ../scrolling-browser-title.php:213
+msgid "Enter specific wp pages IDs. Enter comma separated."
+msgstr ""
